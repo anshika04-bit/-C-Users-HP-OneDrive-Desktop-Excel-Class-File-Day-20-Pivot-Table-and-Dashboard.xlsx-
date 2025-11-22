@@ -1,7 +1,9 @@
-# -C-Users-HP-OneDrive-Desktop-Excel-Class-File-Day-20-Pivot-Table-and-Dashboard.xlsx-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2fd06bd9-dd8d-425a-a50c-c03a813a5f0e" /># -C-Users-HP-OneDrive-Desktop-Excel-Class-File-Day-20-Pivot-Table-and-Dashboard.xlsx-
 This Excel workbook focusing on Pivot Tables and Dashboard creation. The file includes raw data, pivot table exercises, and a sample dashboard to help learners understand how to summarize, analyze, and visualize data effectively using Excel.
+
 # Excel Pivot Table and Dashboard Project
 This repository contains an Excel file that includes Pivot Table analysis and an interactive Dashboard created in Microsoft Excel.
+Dashboard image(("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot (799).png"))
 # Project Overview
 The Excel file includes:
 Data cleaning and formatting  
